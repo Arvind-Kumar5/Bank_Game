@@ -1,0 +1,16 @@
+You need cash withdraw
+$120.00;
+Take a computer class
+Get a loan for $1200.00
+Calculate monthly payment to repay loan in 3 months;
+CHOICE:
+Drive a car to work $310.00 OR
+Take the bus: $50.00;
+Earn $500.00 for working extra
+TAX: 30%;
+CHOICE:
+Your friend needs help, give a loan of $5800.00
+Repay in 12 months;
+Earn $25.00 as a dog walker
+TAX: 13%;
+START;

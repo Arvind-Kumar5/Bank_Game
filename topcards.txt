@@ -1,0 +1,24 @@
+Want to watch a movie?
+MOVIE: $15.00
+POPCORN: $5.00
+TAX: 3%;
+Buy new beachwear for $100.00
+TAX: 5%;
+Your hair grew too long
+SPEND $11.00
+TIP: 15%;
+EMERGENCY!!!;
+You got a new job as a waiter in a restaurant. You can earn tips!
+TIPS: 20% of $75.00;
+CHOICE:
+Buy a bike for $110.00 OR
+Walk for FREE;
+Make your monthly loan payments;
+URGENT EXPENSES!;
+Earn $300.00 for working as a janitor
+TAX: 3%;
+URGENT EXPENSES!;
+RENT INCREASE
+Extra $200/month
+Recalculate you rent. Write a rent check to Cozy Apartments;
+

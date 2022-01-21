@@ -1,0 +1,29 @@
+Your fridge is empty
+SPEND: $50.00
+TAX: 3%;
+Earn $500.00 for cooking
+INCOME TAX: 15%;
+You feel very cold when you go out!
+SPEND: $150.00
+TAX: 13%;
+EMERGENCY!!!;
+Save to buy a _____
+Cost: $200.00
+PUT AWAY $20.00 EVERY TURN
+How many turns do you need to buy it?;
+URGENT EXPENSE!;
+Pay garbage and utilities
+$300;
+Deposit a check for $2000.00
+into your bank account;
+CHOICE:
+Music concert: $150.00 OR
+Stay home and watch Youtube: FREE;
+Wanna take a vacation?
+$1000.00;
+You fall sick and can't work for 8 days.
+You lose $20/day;
+CHOICE:
+Car wash at a store: $20.00 OR
+Do it yourself: FREE; 
+
