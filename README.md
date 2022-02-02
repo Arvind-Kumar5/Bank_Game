@@ -1,6 +1,6 @@
 # Bank_Game
 
-##**What you need:**
+##**What you need:**##
 1. Please be sure to download pygame before playing the game
 2. Clone the repo
 
